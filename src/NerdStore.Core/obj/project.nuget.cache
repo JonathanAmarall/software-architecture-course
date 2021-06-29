@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "N5icVFCPpEILSz/N96OU55cSD+UCVkgu0agRg7VOAeczlDbpYp5oltVQ7C25DlL03SAtVr5gMWVwLpRfadlCYA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jhoua\\Documents\\Projects\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jhoua\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

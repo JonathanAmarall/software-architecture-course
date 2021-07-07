@@ -1,0 +1,9 @@
+C:\Users\jhoua\Documents\Projects\NerdStore\src\NerdStore.Vendas.Data\bin\Debug\netcoreapp3.1\NerdStore.Vendas.Data.deps.json
+C:\Users\jhoua\Documents\Projects\NerdStore\src\NerdStore.Vendas.Data\bin\Debug\netcoreapp3.1\NerdStore.Vendas.Data.dll
+C:\Users\jhoua\Documents\Projects\NerdStore\src\NerdStore.Vendas.Data\bin\Debug\netcoreapp3.1\NerdStore.Vendas.Data.pdb
+C:\Users\jhoua\Documents\Projects\NerdStore\src\NerdStore.Vendas.Data\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Data.csprojAssemblyReference.cache
+C:\Users\jhoua\Documents\Projects\NerdStore\src\NerdStore.Vendas.Data\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Data.AssemblyInfoInputs.cache
+C:\Users\jhoua\Documents\Projects\NerdStore\src\NerdStore.Vendas.Data\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Data.AssemblyInfo.cs
+C:\Users\jhoua\Documents\Projects\NerdStore\src\NerdStore.Vendas.Data\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Data.csproj.CoreCompileInputs.cache
+C:\Users\jhoua\Documents\Projects\NerdStore\src\NerdStore.Vendas.Data\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Data.dll
+C:\Users\jhoua\Documents\Projects\NerdStore\src\NerdStore.Vendas.Data\obj\Debug\netcoreapp3.1\NerdStore.Vendas.Data.pdb
